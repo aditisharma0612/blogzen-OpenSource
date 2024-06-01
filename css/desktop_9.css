@@ -10,12 +10,12 @@
 }
 
 .darktheme{
-    --txtColor1: white;
+    --txtColor1: rgb(241, 230, 230);
     --element-color:white;
-    --element1-color:#9DB2BF;
+    --element1-color:#b2cbdc;
     --element2-color: #DDE6ED;
     background-color: black;
-    color: white;
+    color: rgb(249, 237, 237);
 
 }
 #themeImg{
@@ -113,14 +113,14 @@ nav {
 
 /* make calender dark */
 .darktheme .overlay1 .popup1{
-    background-color: black;
-    color: white;
+    background-color: rgb(52, 16, 16);
+    color: rgb(226, 203, 203);
 }
 
 
 .calendar_container:hover {
-  background-color: rgb(5, 5, 6);
-  border: 1px solid #208FF4;
+  background-color: rgb(9, 9, 35);
+  border: 1px solid #15dcd9;
 }
 
 .title_container {
